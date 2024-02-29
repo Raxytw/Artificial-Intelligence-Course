@@ -14,4 +14,4 @@
 
 </div>
 
-> English users can view the [`README.en.md`](https://github.com/Raxytw/pocketplanet-world-web/blob/main/README.en.md) file.  
+> English users can view the [`README.en.md`](https://github.com/Raxytw/Artificial-Intelligence-Course/blob/main/README.en.md) file.  
