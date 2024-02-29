@@ -2,7 +2,7 @@
 
 # `Artificial-Intelligence-Course`
 
-<img src="./.github/ai-index.jpg" alt="ai-icon" width="90%"/>
+<img src="./assets/ai-index.jpg" alt="ai-icon" width="90%"/>
 
 ---
 
